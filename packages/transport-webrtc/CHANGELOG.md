@@ -111,6 +111,13 @@
     * @libp2p/websockets bumped from ^8.0.14 to ^8.0.15
     * libp2p bumped from ^1.2.2 to ^1.2.3
 
+## [4.0.34](https://github.com/libp2p/js-libp2p/compare/webrtc-v4.0.33...webrtc-v4.0.34) (2024-05-28)
+
+
+### Documentation
+
+* update webrtc-direct support ([#2564](https://github.com/libp2p/js-libp2p/issues/2564)) ([169c9d8](https://github.com/libp2p/js-libp2p/commit/169c9d85e7c9cd65be964b5d08bd618d950f70ee))
+
 ## [4.0.33](https://github.com/libp2p/js-libp2p/compare/webrtc-v4.0.32...webrtc-v4.0.33) (2024-05-17)
 
 

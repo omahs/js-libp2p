@@ -96,6 +96,13 @@
   * devDependencies
     * libp2p bumped from ^1.2.2 to ^1.2.3
 
+## [4.0.33](https://github.com/libp2p/js-libp2p/compare/webtransport-v4.0.32...webtransport-v4.0.33) (2024-05-28)
+
+
+### Bug Fixes
+
+* catch unhandled promise rejection in WebTransport muxer ([#2566](https://github.com/libp2p/js-libp2p/issues/2566)) ([f4e572c](https://github.com/libp2p/js-libp2p/commit/f4e572cd6fc957457816c98619d1a11adf4bd5bc))
+
 ## [4.0.32](https://github.com/libp2p/js-libp2p/compare/webtransport-v4.0.31...webtransport-v4.0.32) (2024-05-17)
 
 
